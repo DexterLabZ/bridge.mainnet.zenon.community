@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.288235ea.css",
-    "main.js": "/static/js/main.d8e939f8.js",
-    "static/js/201.86c2bdea.chunk.js": "/static/js/201.86c2bdea.chunk.js",
+    "main.css": "/static/css/main.67aba86b.css",
+    "main.js": "/static/js/main.641403e6.js",
+    "static/js/727.4b7cdbe0.chunk.js": "/static/js/727.4b7cdbe0.chunk.js",
     "static/js/787.ce206071.chunk.js": "/static/js/787.ce206071.chunk.js",
     "static/media/bg-shapes.png": "/static/media/bg-shapes.e97f09c97a852be19d31.png",
     "static/media/swirl.svg": "/static/media/swirl.2fafa76c588b638eeb0cc9ad808012db.svg",
@@ -14,29 +14,33 @@
     "static/media/syrius-logo.svg": "/static/media/syrius-logo.2b77a724c574d1e921679c0c8a23a2fe.svg",
     "static/media/close-red.svg": "/static/media/close-red.c69d3c169484757acf4a793855d14594.svg",
     "static/media/qsr.svg": "/static/media/qsr.47e669b33a34e031372b99a30ccf6531.svg",
+    "static/media/wqsr.svg": "/static/media/wqsr.d6966a287883525fb9c9cbd287561486.svg",
     "static/media/bnb.svg": "/static/media/bnb.cbcc74b946580181114a091a05302447.svg",
     "static/media/list.svg": "/static/media/list.e139fad0e34e4ce2906a497108013c7b.svg",
     "static/media/walletConnect.svg": "/static/media/walletConnect.ffe685961926424a8f0cdf8f2be80240.svg",
     "static/media/eth-purple.svg": "/static/media/eth-purple.c6cd869f9532149651dd40641c0e890f.svg",
     "static/media/warning-icon.svg": "/static/media/warning-icon.addf7160c3861d43d76df9105caeb870.svg",
+    "static/media/zts.svg": "/static/media/zts.ede14e56ebbbf9bb154192c76ccc4b9a.svg",
+    "static/media/info-icon-blue.svg": "/static/media/info-icon-blue.bff16285fc582e7740adbd5bf13295bd.svg",
     "static/media/info-icon.svg": "/static/media/info-icon.a906dbbaef0aa44db9a9a09b93c913ce.svg",
+    "static/media/info-icon-red.svg": "/static/media/info-icon-red.2a63cd0bc801f2f1d1829f823e373cc6.svg",
     "static/media/spinner.svg": "/static/media/spinner.b2e768d9f95e2fdcbce86e3b88841088.svg",
     "index.html": "/index.html",
     "static/media/zenon.svg": "/static/media/zenon.2b3fbdaff16345272e117ac1af27c2d8.svg",
-    "static/media/zts.svg": "/static/media/zts.f2bbf1475b17fab782dedc27b8f15052.svg",
+    "static/media/wznn.svg": "/static/media/wznn.f2bbf1475b17fab782dedc27b8f15052.svg",
     "static/media/znn.svg": "/static/media/znn.4c181a25b4af9790bc850fbdf502c5f9.svg",
     "static/media/block-solid.svg": "/static/media/block-solid.73f76788f84b075209f07e6eb989b7f6.svg",
     "static/media/home.svg": "/static/media/home.27a6034ed129bf9a169dd883b4a7b905.svg",
     "static/media/arrow-down-white.svg": "/static/media/arrow-down-white.87b386f03327753c85556f26cdaf6652.svg",
     "static/media/green-checkmark.svg": "/static/media/green-checkmark.8ef01fdb48439523c8a551b163cc0850.svg",
     "static/media/transfer-arrow.svg": "/static/media/transfer-arrow.485a9da5d468220b41f2467e5356886a.svg",
-    "main.288235ea.css.map": "/static/css/main.288235ea.css.map",
-    "main.d8e939f8.js.map": "/static/js/main.d8e939f8.js.map",
-    "201.86c2bdea.chunk.js.map": "/static/js/201.86c2bdea.chunk.js.map",
+    "main.67aba86b.css.map": "/static/css/main.67aba86b.css.map",
+    "main.641403e6.js.map": "/static/js/main.641403e6.js.map",
+    "727.4b7cdbe0.chunk.js.map": "/static/js/727.4b7cdbe0.chunk.js.map",
     "787.ce206071.chunk.js.map": "/static/js/787.ce206071.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.288235ea.css",
-    "static/js/main.d8e939f8.js"
+    "static/css/main.67aba86b.css",
+    "static/js/main.641403e6.js"
   ]
 }
